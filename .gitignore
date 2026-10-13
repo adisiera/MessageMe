@@ -1,0 +1,9 @@
+node_modules/
+client/dist/
+server/dist/
+server/data/
+coverage/
+playwright-report/
+test-results/
+.env
+*.log
